@@ -1,0 +1,25 @@
+ - [ ] Model a gameboard
+ - [ ] Make a dice roller
+ - [ ] Model the tileset
+ - [ ] Make the tileset interact with the board
+ - [ ] Show the board state
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ - [ ] Could use more than d6 rolls, maybe d8s or d10s
