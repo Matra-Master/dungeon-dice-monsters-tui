@@ -1,4 +1,4 @@
- - [ ] Model a gameboard
+ - [ ] Model a simple gameboard
  - [ ] Make a dice roller
  - [ ] Model the tileset
  - [ ] Make the tileset interact with the board
